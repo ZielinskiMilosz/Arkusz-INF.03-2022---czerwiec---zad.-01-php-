@@ -1,0 +1,68 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.baner
+{
+    background-color: #00838F;
+    color: white;
+    padding: 5px;
+    font-size: 130%;
+    text-align: center;
+}
+.dwa
+{
+    background-color: #EFEFEF;
+    width: 55%;
+    float: left;
+}
+.dwa1
+{
+    background-color: #4FB3BF;
+    width: 45%;
+    float: left;
+}
+
+.prawy
+{
+    height: 450px;
+    text-align: center;
+    padding: 18.5px;
+}
+img
+{
+    width: 400px;
+    box-shadow: 10px 10px 7px dimgray;
+    margin: 20px;
+}
+table tr td
+{
+    border: solid 1px #4FB3BF;
+    border-collapse: collapse;
+}
+tr td
+{
+    padding: 4px;
+}
+li
+{
+    list-style-type: decimal;
+}
+table
+{
+    margin: auto;
+    width: 80%;
+}
+table tr :hover
+{
+    background-color: #4FB3BF;
+}
+.stopka
+{
+    background-color: #00838F;
+    color: white;
+    padding: 5px;
+    font-size: 130%;
+    text-align: center;
+    clear: both;
+}
